@@ -231,10 +231,8 @@ If the model is not already available (Android assets or previous download), the
 
 Kotlin Multiplatform · Compose Multiplatform · On-device ML · Android · iOS
 
-<!-- Replace with your profiles:
-- GitHub: https://github.com/<your-username>
-- LinkedIn: https://www.linkedin.com/in/<your-handle>
--->
+- GitHub: [engmahmoudatallah](https://github.com/engmahmoudatallah)
+- LinkedIn: <!-- add your LinkedIn URL -->
 
 ---
 
